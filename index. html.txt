@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art of Luxury Travel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Art of Luxury Travel</h1>
+    </header>
+    <main>
+        <p>Discover the world's most luxurious travel experiences and destinations.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Art of Luxury Travel</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
+
